@@ -1,0 +1,6 @@
+{
+  "name": "NAWA DevStudio IDE",
+  "description": "Advanced Mobile Code Editor, Python Runtime, Automated APK Compiler, and AI Self-Healing Debugger",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
